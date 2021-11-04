@@ -663,6 +663,21 @@
 	 "Colonel":3056132238,
 	 "Group Holder":3056132238
       }, 
+      "SERTUnderShirtBottoms":{
+         "Candidate":3056140362,
+         "Operative":3056140362,
+         "Senior Operative":3056140362,
+         "Sergeant":3056140362,
+         "Lieutenant":3056140362,
+         "Captain":3056140362,
+         "Major":3056140362,
+         "Commander":3056140362,
+         "Executive Officer":3056140362,
+         "Commanding Officer":3056140362,
+	 "Lieutenant Colonel":3056140362,
+	 "Colonel":3056140362,
+	 "Group Holder":3056140362
+      }, 
       "TPUShort":{
          "Candidate":7262089512,
          "Operative":7262066260,
